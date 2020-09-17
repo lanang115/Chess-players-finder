@@ -1,5 +1,5 @@
 # Chess-players-finder
-This is a python application that reads all the Chess players name from a CSV file and able to search a specific player by their last name.
+This is a python application that reads all the Chess players information from a CSV file and able to search a specific player by their last name.
 
 ## Cloning 
 
