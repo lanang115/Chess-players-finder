@@ -6,7 +6,7 @@ This is a python application that reads all the Chess players name from a CSV fi
 Use the following command line to clone the repository.
 
 ```bash
-git clone 
+git clone https://github.com/lanang115/Chess-players-finder.git
 ```
 
 ## Contributing
